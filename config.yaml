@@ -1,0 +1,6 @@
+path: C:/Users/Hussain Afroz/Desktop/PythonFiles/PythonTasks/data
+train: images/train
+val: images/train
+
+names:
+  0: Plastic Bottles
